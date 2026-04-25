@@ -1,0 +1,39 @@
+# Simulation binaries
+simv
+simv.daidir/
+*.daidir/
+csrc/
+work/
+
+# VCS artifacts
+*.key
+ucli.key
+vc_hdrs.h
+*.so
+*.sdb
+*.db
+vcs_rebuild
+opendatabase.log
+tr_db.log
+DVEfiles/
+
+# Waveform databases (large binary)
+*.vpd
+*.fsdb
+# Keep .vcd if small — comment out next line to include them
+# *.vcd
+
+# Shell env artifacts
+.bashrc
+.bash_profile
+.bash_logout
+synopsys_sim.setup
+dump_vpd.do
+run.sh
+vcs
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+*.swp

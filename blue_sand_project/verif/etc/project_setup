@@ -1,0 +1,7 @@
+export PROJECT="$HOME/projects/blue_sand_project"
+export PROJECT_VER="$HOME/projects/blue_sand_project/verif"
+export PROJECT_DESIGN="$HOME/projects/blue_sand_project/design"
+export OUTPUT="$HOME/outputs/blue_sand_project"
+export UVM_HOME="$HOME/uvm_home"
+export PATH="$PROJECT_VER/bin:$PATH"
+

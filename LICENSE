@@ -1,0 +1,37 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2025–2026 Exalt Technologies & the Author
+
+All rights reserved.
+
+This repository contains code produced during the Exalt Technologies
+Design Verification (DV) training program (October 2025 – March 2026).
+
+OWNERSHIP
+The intellectual property in this repository is jointly owned by:
+  - Exalt Technologies (training program provider)
+  - The author (training participant / solution author)
+
+PERMITTED USES
+This repository is made available publicly for portfolio and demonstration
+purposes only. Reviewers (including recruiters and potential employers) may
+read and evaluate the code for the purpose of assessing the author's skills.
+
+PROHIBITED USES — the following are strictly forbidden without explicit
+written permission from both Exalt Technologies and the author:
+  - Copying or reproducing any part of this code
+  - Submitting any part of this code as academic or professional work
+  - Using any part of this code in a commercial product or service
+  - Distributing or sublicensing this code in any form
+
+DESIGN RTL NOTICE
+The design RTL files within blue_sand_project/design/ are the exclusive
+property of the Blue Sand project team and Exalt Technologies.
+The author made no contribution to the design RTL.
+
+DISCLAIMER
+The code is provided as-is for demonstration purposes. It may contain
+bugs (intentionally documented in blue_sand_project/verif/bug_waves/).
+No warranty of correctness or fitness for any purpose is provided.
+
+For permissions or enquiries, contact Exalt Technologies.
